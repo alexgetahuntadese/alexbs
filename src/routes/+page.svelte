@@ -1,6 +1,6 @@
 <script>
 	import Counter from '$lib/Counter.svelte';
- import { bettingSites } from '$data/bettingSites.js';
+ import { bettingSites } from '$lib/allBettingSites.js';
   import BettingSite from '$lib/BettingSite.svelte';
 </script>
 
