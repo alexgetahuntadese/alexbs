@@ -1,17 +1,17 @@
 export const bettingSites = [
   {
-    name: "BetKing Ethiopia",
-    url: "https://www.betking.com.et",
-    bonus: "Bonus: Up to 5000 ETB",
+    name: "Waliyabet",
+    url: "https://www.waliyabet.et/",
+    bonus: "Bonus: 15 ETB Welcome Bonus",
   },
   {
     name: "ABet Ethiopia",
-    url: "https://www.abet.com.et",
-    bonus: "Bonus: Free Bet on Signup",
+    url: "https://betx.et/",
+    bonus: "Bonus: 10 Free Bets for the First Deposit",
   },
   {
     name: "Betika Ethiopia",
-    url: "https://www.betika.com.et",
+    url: "https://qwickbirr.com/",
     bonus: "Bonus: Double Your First Deposit",
   },
   {
