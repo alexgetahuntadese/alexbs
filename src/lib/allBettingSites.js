@@ -1,10 +1,5 @@
 export const bettingSites = [
   {
-    name: "Premier Bet",
-    bonus: "100% Bonus up to 10,000 ETB",
-    url: "https://www.premierbet.com.et"
-  },
-  {
     name: "Megapari",
     bonus: "100% Bonus up to 15,000 ETB",
     url: "https://www.megapari.com"
@@ -62,12 +57,12 @@ export const bettingSites = [
   {
     name: "Fidel Sport",
     bonus: "Bonus N/A",
-    url: "https://www.fidelsport.com"
+    url: "https://www.fidelsport.com/?referal=77891"
   },
   {
     name: "Hulusport",
     bonus: "Cash Back Bonus",
-    url: "https://www.hulusport.com"
+    url: "https://hulusport.com/?referal=1256503"
   },
   {
     name: "Activbet",
@@ -97,7 +92,7 @@ export const bettingSites = [
   {
     name: "Harifsport",
     bonus: "100% Bonus up to 400 ETB",
-    url: "https://www.harifsport.com"
+    url: "https://www.harifsport.com?referal=350278"
   },
   {
     name: "BetKing",
@@ -107,7 +102,7 @@ export const bettingSites = [
   {
     name: "Waliyabet",
     bonus: "15 ETB Welcome Bonus",
-    url: "https://www.waliyabet.com"
+    url: "http://waliyabet.et/register/?referal=784301"
   },
   {
     name: "Bet251",
@@ -132,27 +127,12 @@ export const bettingSites = [
   {
     name: "Qwickbirr",
     bonus: "10 Free Spins for the First Deposit",
-    url: "https://www.qwickbirr.com"
+    url: "https://qwickbirr.com/?aff=233019"
   },
   {
     name: "BetX",
     bonus: "10 Free Bets for the First Deposit",
-    url: "https://www.betx.com"
-  },
-  {
-    name: "Konjo Bet",
-    bonus: "Accumulator Bonus up to 400%",
-    url: "https://www.konjobet.com"
-  },
-  {
-    name: "BravoBet",
-    bonus: "Bonus N/A",
-    url: "https://www.bravobet.com"
-  },
-  {
-    name: "Betway",
-    bonus: "Bonus N/A",
-    url: "https://www.betway.com"
+    url: "https://www.betx.et"
   },
   {
     name: "Arada Bet",
@@ -165,11 +145,6 @@ export const bettingSites = [
     url: "https://www.bestbet.com"
   },
   {
-    name: "AddisBet",
-    bonus: "100% First Deposit Bonus",
-    url: "https://www.addisbet.com"
-  },
-  {
     name: "Blackjack Bet",
     bonus: "50% Cash Back Bonus",
     url: "https://www.blackjackbet.com"
@@ -177,12 +152,12 @@ export const bettingSites = [
   {
     name: "ZemenBet",
     bonus: "150% Welcome Bonus",
-    url: "https://www.zemenbet.com"
+    url: "https://www.zemenbet.com?referal=536792"
   },
   {
     name: "Ethiobet",
     bonus: "200% Multi Bonus",
-    url: "https://www.ethiobet.com"
+    url: "https://www.ethiobet.et"
   },
   {
     name: "GrandBet",
@@ -217,32 +192,12 @@ export const bettingSites = [
   {
     name: "ChampionBet",
     bonus: "Weekly Rewards Program",
-    url: "https://www.championbet.com"
+    url: "https://www.championbet.et"
   },
   {
     name: "SmartBet",
     bonus: "50% Reload Bonus",
-    url: "https://www.smartbet.com"
+    url: "https://www.smartbet.et"
   },
-  {
-    name: "Bet24 Ethiopia",
-    bonus: "200% Multi Bonus on Wins",
-    url: "https://www.bet24.com.et"
-  },
-  {
-    name: "FidelBet",
-    bonus: "Daily Free Spins",
-    url: "https://www.fidelbet.com"
-  },
-  {
-    name: "EthioSports",
-    bonus: "100% Sports Welcome Bonus",
-    url: "https://www.ethiosports.com"
-  },
-  {
-    name: "GoldenBet",
-    bonus: "300% Multi Bonus",
-    url: "https://www.goldenbet.com"
-  }
   // Add more sites as needed to reach the total of 100
 ];
