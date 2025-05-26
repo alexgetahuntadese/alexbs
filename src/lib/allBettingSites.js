@@ -163,5 +163,86 @@ export const bettingSites = [
     name: "Best Bet",
     bonus: "Accumulator Bonus up to 400%",
     url: "https://www.bestbet.com"
+  },
+  {
+    name: "AddisBet",
+    bonus: "100% First Deposit Bonus",
+    url: "https://www.addisbet.com"
+  },
+  {
+    name: "Blackjack Bet",
+    bonus: "50% Cash Back Bonus",
+    url: "https://www.blackjackbet.com"
+  },
+  {
+    name: "ZemenBet",
+    bonus: "150% Welcome Bonus",
+    url: "https://www.zemenbet.com"
+  },
+  {
+    name: "Ethiobet",
+    bonus: "200% Multi Bonus",
+    url: "https://www.ethiobet.com"
+  },
+  {
+    name: "GrandBet",
+    bonus: "Up to 10,000 ETB Free Bets",
+    url: "https://www.grandbet.com"
+  },
+  {
+    name: "DashBet",
+    bonus: "Weekly Cashback Offers",
+    url: "https://www.dashbet.com"
+  },
+  {
+    name: "GalaxyWin",
+    bonus: "500% Accumulator Bonus",
+    url: "https://www.galaxywin.com"
+  },
+  {
+    name: "Winner Ethiopia",
+    bonus: "100% First Deposit Bonus",
+    url: "https://www.winnerethiopia.com"
+  },
+  {
+    name: "VamosBet",
+    bonus: "400% Multi Betting Bonus",
+    url: "https://www.vamosbet.com"
+  },
+  {
+    name: "ElephantBet",
+    bonus: "Free Bets up to 5,000 ETB",
+    url: "https://www.elephantbet.com"
+  },
+  {
+    name: "ChampionBet",
+    bonus: "Weekly Rewards Program",
+    url: "https://www.championbet.com"
+  },
+  {
+    name: "SmartBet",
+    bonus: "50% Reload Bonus",
+    url: "https://www.smartbet.com"
+  },
+  {
+    name: "Bet24 Ethiopia",
+    bonus: "200% Multi Bonus on Wins",
+    url: "https://www.bet24.com.et"
+  },
+  {
+    name: "FidelBet",
+    bonus: "Daily Free Spins",
+    url: "https://www.fidelbet.com"
+  },
+  {
+    name: "EthioSports",
+    bonus: "100% Sports Welcome Bonus",
+    url: "https://www.ethiosports.com"
+  },
+  {
+    name: "GoldenBet",
+    bonus: "300% Multi Bonus",
+    url: "https://www.goldenbet.com"
   }
+  // Add more sites as needed to reach the total of 100
 ];
