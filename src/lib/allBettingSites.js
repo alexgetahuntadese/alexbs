@@ -15,16 +15,6 @@ export const bettingSites = [
     url: "https://www.betwinner.com"
   },
   {
-    name: "1xBet",
-    bonus: "100% Bonus up to 5,000 ETB",
-    url: "https://www.1xbet.com"
-  },
-  {
-    name: "22Bet",
-    bonus: "100% Bonus up to 6,900 ETB",
-    url: "https://www.22bet.com"
-  },
-  {
     name: "Paripesa",
     bonus: "100% up to 4,500 ETB",
     url: "https://www.paripesa.com"
@@ -33,11 +23,6 @@ export const bettingSites = [
     name: "Aviator 251",
     bonus: "10% Cash Back Deal",
     url: "https://www.aviator251.com"
-  },
-  {
-    name: "Mercury Bet",
-    bonus: "25% Sports Bonus up to Le600,000",
-    url: "https://www.mercurybet.com"
   },
   {
     name: "Betika",
@@ -97,7 +82,7 @@ export const bettingSites = [
   {
     name: "Ethiobet",
     bonus: "200% Multi Bonus",
-    url: "https://www.ethiobet.et"
+    url: "http://ethiobet.et/?referal=110733"
   },
   {
     name: "ChampionBet",
@@ -107,7 +92,7 @@ export const bettingSites = [
   {
     name: "SmartBet",
     bonus: "50% Reload Bonus",
-    url: "https://www.smartbet.et"
+    url: "https://www.smartbet.et//register/?referal=96454"
   },
   // Add more sites as needed to reach the total of 100
 ];
