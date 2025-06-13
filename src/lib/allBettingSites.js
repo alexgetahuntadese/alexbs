@@ -93,7 +93,5 @@ export const bettingSites = [
     name: "Winneret",
     bonus: "100% Bonus up to 10,000 ETB",
     url: "https://www.winneret.com"
-  },
-  
-  // Add more sites as needed to reach the total of 100
+  }
 ];
