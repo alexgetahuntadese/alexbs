@@ -15,9 +15,7 @@
 <img src="svelte-welcome.png" alt="Welcome" /> </picture>
 </span></h1>
 </section>
-<section>
-<h1> All betting sites in Ethiopia! Play Here </h2>
-</section>
+
 <section class="link-container">
   {#each bettingSites as site}
     <BettingSite name={site.name} url={site.url} bonus={site.bonus} />
