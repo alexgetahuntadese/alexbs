@@ -1,40 +1,5 @@
 export const bettingSites = [
-  {
-    name: "Megapari",
-    bonus: "100% Bonus up to 15,000 ETB",
-    url: "https://www.megapari.com"
-  },
-  {
-    name: "MelBet",
-    bonus: "100% Bonus up to 8,842 ETB",
-    url: "https://www.melbet.com"
-  },
-  {
-    name: "Betwinner",
-    bonus: "100% Bonus up to 14,000 ETB",
-    url: "https://www.betwinner.com"
-  },
-  {
-    name: "Paripesa",
-    bonus: "100% up to 4,500 ETB",
-    url: "https://www.paripesa.com"
-  },
-  {
-    name: "Aviator 251",
-    bonus: "10% Cash Back Deal",
-    url: "https://www.aviator251.com"
-  },
-  {
-    name: "Betika",
-    bonus: "100% Deposit Match Welcome Bonus",
-    url: "https://www.betika.com.et"
-  },
-  {
-    name: "Winneret",
-    bonus: "100% Bonus up to 10,000 ETB",
-    url: "https://www.winneret.com"
-  },
-  {
+{
     name: "Fidel Sport",
     bonus: "Bonus N/A",
     url: "https://www.fidelsport.com/?referal=77891"
@@ -94,5 +59,41 @@ export const bettingSites = [
     bonus: "50% Reload Bonus",
     url: "https://www.smartbet.et//register/?referal=96454"
   },
+  {
+    name: "Megapari",
+    bonus: "100% Bonus up to 15,000 ETB",
+    url: "https://www.megapari.com"
+  },
+  {
+    name: "MelBet",
+    bonus: "100% Bonus up to 8,842 ETB",
+    url: "https://www.melbet.com"
+  },
+  {
+    name: "Betwinner",
+    bonus: "100% Bonus up to 14,000 ETB",
+    url: "https://www.betwinner.com"
+  },
+  {
+    name: "Paripesa",
+    bonus: "100% up to 4,500 ETB",
+    url: "https://www.paripesa.com"
+  },
+  {
+    name: "Aviator 251",
+    bonus: "10% Cash Back Deal",
+    url: "https://www.aviator251.com"
+  },
+  {
+    name: "Betika",
+    bonus: "100% Deposit Match Welcome Bonus",
+    url: "https://www.betika.com/et/mobile/#/"
+  },
+  {
+    name: "Winneret",
+    bonus: "100% Bonus up to 10,000 ETB",
+    url: "https://www.winneret.com"
+  },
+  
   // Add more sites as needed to reach the total of 100
 ];
